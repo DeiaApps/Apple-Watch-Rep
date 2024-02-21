@@ -1,7 +1,4 @@
-<div style="display: flex; align-items: center;">
 # 🍏 Apple Watch Rep 🕰️
-<<img src="./icons/favicon-32x32.png" alt="AudiobookTrack Logo" width="32" height="32">
-</div>
 
 ## Description 📚
 
@@ -29,7 +26,7 @@ The trio - JavaScript, HTML, CSS - forms the backbone and collaborates seamlessl
 3. Interact with the replica and explore its features!
 
 ## GitHub Pages 🔗
-The Apple Watch Rep project is hosted on GitHub Pages. You can access it [here](link_to_your_project_on_github_pages).
+The Apple Watch Rep project is hosted on GitHub Pages. You can access it [here](https://deiaapps.github.io/Apple-Watch-Rep/).
 
 ## Contribution 🌟
 
